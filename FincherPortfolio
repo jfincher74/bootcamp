@@ -1,31 +1,41 @@
 <!doctype html>
 <html>
-	<head>
-		Jay Fincher
-	</head>
-		<title> Jay Fincher Portfolio</title>
-			<body>
-				<h1><img src= "../SkilloWork/SkilloPhotos/IMG_2120.jpg" width 80 height=100></img>
-					<img src= "../SkilloWork/SkilloPhotos/IMG_2169.jpg" width 80 height=100></img>
-					<img src= "../SkilloWork/SkilloPhotos/IMG_2123.jpg" width 80 height=100></img>
-					<img src= "../SkilloWork/SkilloPhotos/IMG_2006.jpg" width 80 height=100></img>
-					<img src= "../SkilloWork/SkilloPhotos/IMG_2357.jpg" width 80 height=100></img>
-					<img src= "../SkilloWork/SkilloPhotos/IMG_1893.jpg" width 80 height=100></img>
-					<img src= "../SkilloWork/SkilloPhotos/IMG_1573.jpg" width 80 height=100></img>
-					<img src= "../SkilloWork/SkilloPhotos/IMG_1486.jpg" width 80 height=100></img>
-					<img src= "../SkilloWork/SkilloPhotos/IMG_3263.jpg" width 80 height=100></img>
-				</h1>	
-				<h2> About Me </h2>
-					<p> My name is Jay Fincher. I currently work at GE which is quickly becoming a software company. I graduated from college with a sociology degree and would have never thought that <em>I</em> would be interested in <strong> front-end development </strong> but here I am.</p>
 
-					<p> From my pictures, you can probably guess that I have a few things that I am interested in.
-						<ol>
-							<li>My wife, Megan, is a joy and inspiration for me</li>
-							<li>My dog, Dixie, is a great companion and mega study-buddy</li>
-							<li>I enjoy being outside </li>	
-							<li>I love cities and two cities hold a special place in my heart:<ul>
-								<li>Detroit</li>
-								<li>Denver</li>
-							</li>			
-			</body>
+<head>
+	Jay Fincher
+</head>
+
+<title> Jay Fincher Portfolio</title>
+	<body>
+		<h1><img src= "../SkilloWork/SkilloPhotos/IMG_2120.jpg" width 80 height=100></img>
+			<img src= "../SkilloWork/SkilloPhotos/IMG_2169.jpg" width 80 height=100></img>
+			<img src= "../SkilloWork/SkilloPhotos/IMG_2123.jpg" width 80 height=100></img>
+			<img src= "../SkilloWork/SkilloPhotos/IMG_2006.jpg" width 80 height=100></img>
+			<img src= "../SkilloWork/SkilloPhotos/IMG_2357.jpg" width 80 height=100></img>
+			<img src= "../SkilloWork/SkilloPhotos/IMG_1893.jpg" width 80 height=100></img>
+			<img src= "../SkilloWork/SkilloPhotos/IMG_1573.jpg" width 80 height=100></img>
+			<img src= "../SkilloWork/SkilloPhotos/IMG_1486.jpg" width 80 height=100></img>
+			<img src= "../SkilloWork/SkilloPhotos/IMG_3263.jpg" width 80 height=100></img>
+		</h1>	
+	
+	
+<h2> About Me </h2>	
+	
+	<p> My name is Jay Fincher. I currently work at GE which is quickly becoming a software company. 
+	I graduated from college with a sociology degree and would have never thought that <em>I</em> would be 
+	interested in <strong> front-end development </strong> but here I am.</p>
+	
+	<p> From my pictures, you can probably guess that I have a few things that I am interested in.
+		<ol>
+			<li>My wife, Megan, is a joy and inspiration for me</li>
+			<li>My dog, Dixie, is a great companion and mega study-buddy</li>
+			<li>I enjoy being outside </li>	
+			<li>I love cities and two cities hold a special place in my heart:
+				<ul>
+					<li>Detroit</li>
+					<li>Denver</li>
+				</ul>
+			</li>
+		</ol>
+	</body>
 </html>
